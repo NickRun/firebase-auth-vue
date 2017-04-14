@@ -1,6 +1,4 @@
-# slider
-
-> A Vue.js project
+# Login / Registration using Vue and FB auth
 
 ## Build Setup
 
